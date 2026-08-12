@@ -5,7 +5,7 @@ This repository contains the codebase and project deliverables for the IBM Data 
 
 ## Overview
 - **Technology Stack:** Python, Flask, Pandas
-- **Author:** [اكتب اسمك هنا]
+- **Author:** [Haitham Youssif]
 - **Status:** Completed
 
 ## How to Run
